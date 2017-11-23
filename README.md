@@ -15,12 +15,12 @@ Write a method on a class, which, when given a list transactions, a date and a p
 ## Getting Started
 
 These instructions will get you a copy of the cardFraudDetector up and running on your local machine for development and testing purposes.
-the jar file is already under the /target folder, so you can skip the build process.
 
 ### Prerequisites
 
 Java 1.8
-Maven ( optional )
+
+Maven
 
 
 ### Build
@@ -42,7 +42,7 @@ mvn test
 
 ## Running the application
 
-the cardFraudDetector-1.jar under target has to be run with 3 arguments :
+the cardFraudDetector-1.jar under target folder has to be run with 3 arguments :
 a file containing a list of transaction ( see transaction_file_example file under cardFraudDetector folder)
 an amount threshold
 a date
