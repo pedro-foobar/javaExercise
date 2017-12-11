@@ -58,3 +58,11 @@ main class is DetectionRunner.java
 feel free to run the app with other files and play with the arguments.
 
 Note that you can import the project as a maven project into eclipse and run the tests with Junit 
+
+## Further dev idea
+
+### Refactor code according to S.O.L.I.D principle
+todo
+
+### adapt multithread version reading multiple file simultaneously
+todo
